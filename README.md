@@ -22,7 +22,7 @@
 
 ### Testing Documentation
 
-- [Checklists]()
+- [Checklists](https://github.com/lkventina/checklist)
 - [Test-Suites and Test-Cases]()
 - [Bug-Reports]()
 - [SQL Queries]()
