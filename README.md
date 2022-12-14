@@ -23,7 +23,7 @@
 ### Testing Documentation
 
 - [Checklists](https://github.com/lkventina/checklist)
-- [Test-Suites and Test-Cases]()
-- [Bug-Reports]()
-- [SQL Queries]()
-- [Postman Collections]()
+- [Test-Suites and Test-Cases](https://github.com/lkventina/test-cases)
+- [Bug-Reports](https://github.com/lkventina/bug-reports)
+- [SQL Queries](https://github.com/lkventina/SQL)
+
