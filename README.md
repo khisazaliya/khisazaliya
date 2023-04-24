@@ -14,6 +14,10 @@
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 
 
+### Autotests
+
+- [Autotests](https://github.com/khisazaliya/BSPB_autotests)
+
 ### Testing Documentation
 
 - [Autotests](https://github.com/khisazaliya/BSPB_autotests)
