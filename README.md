@@ -15,6 +15,7 @@
 ### Autotests
 
 - [Autotests](https://github.com/khisazaliya/BSPB_autotests)
+- [Restsharp](https://github.com/khisazaliya/restsharp)
 
 ### Testing Documentation
 
